@@ -1,7 +1,7 @@
 module.exports = {
   title: '我的博客',
   description: '自媒体博主的个人博客',
-  base: '/',
+  base: "/blog/",
 
   themeConfig: {
     nav: [
